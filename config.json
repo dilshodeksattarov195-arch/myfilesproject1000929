@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "ordercave",
+        "uuid": 2957936,
+        "checksum": "ftf4r"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "production"
+    }
+}
